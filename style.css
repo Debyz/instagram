@@ -1,0 +1,19 @@
+.header-nav {
+    border-bottom: 2px solid #dbdbdb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-content {
+    diplay: flax;
+}
+.inst {
+    width: 100px;
+    display: flex;
+}
+.right-container {
+}
+.img {
+    margin: 10px;
+    width: 26px;
+}
